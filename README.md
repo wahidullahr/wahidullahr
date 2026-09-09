@@ -35,7 +35,7 @@ Team-based full-stack development of the Digilist booking platform, with contrib
 
 ## Technologies used in my projects
 
-TypeScript, React, Next.js, React Native, Expo, Vite, Convex, Supabase, PostgreSQL, Tailwind CSS, Stripe and Vitest.
+TypeScript, React, Next.js, React Native, Kotlin, Jetpack Compose, Expo, Vite, Convex, Supabase, PostgreSQL, Tailwind CSS, Stripe and Vitest.
 
 ## More work and contact
 
